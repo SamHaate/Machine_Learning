@@ -1,1 +1,1 @@
-All the python files uploaded are templates that will help you learn about Machine Learning. Feel free to utilize them!!
+All the python files uploaded are templates that will help you learn about Machine Learning. All the models have been uploaded into various respective brances, so navigate accordingly. Feel free to utilize them and enhance your learning!!
