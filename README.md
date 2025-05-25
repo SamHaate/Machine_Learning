@@ -1,6 +1,6 @@
 # 📂 Data Science Case Studies & Projects
 
-Welcome to the **Data Science Case Studies and Projects** branch of my GitHub repository!
+Welcome to the **Machine Learning** Repository
 
 ## 📌 Overview
 
