@@ -4,7 +4,7 @@ Welcome to the **Machine Learning** Repository
 
 ## 📌 Overview
 
-This branch contains a curated collection of real-world case studies and hands-on projects that demonstrate the application of **Data Science** and **Machine Learning** techniques to practical problems. Each project includes:
+This repository contains a curated collection of real-world case studies and hands-on projects that demonstrate the application of **Data Science** and **Machine Learning** techniques to practical problems. Each project includes:
 
 - 📄 Well-documented code notebooks
 - 📊 Relevant datasets
